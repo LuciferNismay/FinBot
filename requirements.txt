@@ -1,0 +1,6 @@
+streamlit
+spacy
+textblob
+transformers
+torch
+huggingface-hub
